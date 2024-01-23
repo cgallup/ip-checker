@@ -1,3 +1,4 @@
+#One will need to have NMAP, Whois, and NSLOOKUP installed, on the system that is running the below program.
 import subprocess
 
 def whois_lookup(ip_address):
