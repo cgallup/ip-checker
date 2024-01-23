@@ -1,4 +1,4 @@
-#One will need to have NMAP, Whois, and NSLOOKUP installed, on the system that is running the below program.
+#Dependencies that need to be installed on the system to run the program, are WHOIS, NSLOOKUP, and NMAP. 
 import subprocess
 
 def whois_lookup(ip_address):
